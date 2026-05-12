@@ -1,5 +1,6 @@
 <Solution>
   <Folder Name="/Ejercicios_Condicionales/">
+    <Project Path="Ejercicio_2/Ejercicio_2.csproj" />
     <Project Path="Ejericicio_1/Ejericicio_1.csproj" />
   </Folder>
 </Solution>
