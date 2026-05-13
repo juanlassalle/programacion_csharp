@@ -2,6 +2,7 @@
   <Folder Name="/Ejercicios_Condicionales/">
     <Project Path="Ejercicio_2/Ejercicio_2.csproj" />
     <Project Path="Ejercicio_3/Ejercicio_3.csproj" />
+    <Project Path="Ejercicio_4/Ejercicio_4.csproj" />
     <Project Path="Ejericicio_1/Ejericicio_1.csproj" />
   </Folder>
 </Solution>
