@@ -1,9 +1,10 @@
 <Solution>
   <Folder Name="/Ejercicios_Condicionales/">
-    <Project Path="Ejercicio_2/Ejercicio_2.csproj" />
-    <Project Path="Ejercicio_3/Ejercicio_3.csproj" />
-    <Project Path="Ejercicio_4/Ejercicio_4.csproj" />
-    <Project Path="Ejercicio_5/Ejercicio_5.csproj" />
-    <Project Path="Ejericicio_1/Ejericicio_1.csproj" />
+    <Project Path="Ejercicio_2/Ejercicio_2.csproj" Id="14dc70a3-2934-4127-9922-3a7be7495572" />
+    <Project Path="Ejercicio_3/Ejercicio_3.csproj" Id="f0eb4590-b2b7-469b-92af-60508f4bc84a" />
+    <Project Path="Ejercicio_4/Ejercicio_4.csproj" Id="dfb5bd16-14d8-44d2-8ceb-7a452be7ca4a" />
+    <Project Path="Ejercicio_5/Ejercicio_5.csproj" Id="2bd7cc07-ea94-4e91-9621-deee9d35d7b8" />
+    <Project Path="Ejercicio_6/Ejercicio_6.csproj" Id="51764430-c4f5-4c56-9c13-1e26c2f836d5" />
+    <Project Path="Ejericicio_1/Ejericicio_1.csproj" Id="7bf0ac3f-4550-4164-a837-7a3d2170d5b4" />
   </Folder>
 </Solution>
